@@ -23,3 +23,7 @@ Analysis of NERs in wikipedia text and BERT embedding aggregate NER leakages.
 ## Data : 
         Data needed for the above analysis is given in this folder. myDump files gives the result of logistic regression   
         classifiers.
+## Requirements:
+        MySQL database.
+        HuggingFace transformer library.
+        pySpark cluster.
